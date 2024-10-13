@@ -1,2 +1,3 @@
 # stepik
-Learning for QA. Test_02
+Мой первый репозиторий
+
